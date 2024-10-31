@@ -1,0 +1,152 @@
+{
+  "prompt_1": {
+    "context": "After dinner, the cat chased a mouse around the house.",
+    "queries": [
+      "What was the cat doing?",
+      "When did the chase occur?",
+      "Which animal was being chased?",
+      "Where did the chase happen?"
+    ],
+    "answers": [
+      "The cat was chasing a mouse.",
+      "After dinner.",
+      "A mouse.",
+      "Around the house."
+    ]
+  },
+  "prompt_2": {
+    "context": "The dog barked loudly at the passing mailman on a quiet street.",
+    "queries": [
+      "What was the dog doing?",
+      "Where did the barking occur?",
+      "Who was being barked at?",
+      "What animal was making noise?"
+    ],
+    "answers": [
+      "The dog was barking loudly.",
+      "On a quiet street.",
+      "The passing mailman.",
+      "A dog."
+    ]
+  },
+  "prompt_3": {
+    "context": "A bird built a nest on the birch tree branch in the backyard.",
+    "queries": [
+      "What was the bird doing?",
+      "Where did the bird build the nest?",
+      "What type of tree was mentioned?",
+      "What animal constructed the nest?"
+    ],
+    "answers": [
+      "The bird was building a nest.",
+      "On the branch of a birch tree in the backyard.",
+      "A birch tree.",
+      "A bird."
+    ]
+  },
+  "prompt_4": {
+    "context": "After school, the child played with toys in the cozy living room.",
+    "queries": [
+      "What was the child doing?",
+      "When was the child playing?",
+      "Who was playing?",
+      "Where was the child playing?"
+    ],
+    "answers": [
+      "The child was playing with toys.",
+      "After school.",
+      "The child.",
+      "In the cozy living room."
+    ]
+  },
+  "prompt_5": {
+    "context": "In the classroom, the teacher taught a math lesson using a whiteboard.",
+    "queries": [
+      "What subject was being taught?",
+      "Where was the lesson taught?",
+      "Who was delivering the lesson?",
+      "What teaching aid was used?"
+    ],
+    "answers": [
+      "Math.",
+      "In the classroom.",
+      "The teacher.",
+      "A whiteboard."
+    ]
+  },
+  "prompt_6": {
+    "context": "The chef cooked a delicious meal in the busy restaurant kitchen.",
+    "queries": [
+      "What was being cooked?",
+      "Where was the cooking done?",
+      "Who was cooking?",
+      "What type of kitchen was mentioned?"
+    ],
+    "answers": [
+      "A delicious meal.",
+      "In the busy restaurant kitchen.",
+      "The chef.",
+      "A busy restaurant kitchen."
+    ]
+  },
+  "prompt_7": {
+    "context": "At the art gallery, the artist painted a colorful mural on the wall.",
+    "queries": [
+      "What was being painted?",
+      "Where was the painting done?",
+      "Who was painting?",
+      "What was the artist doing?"
+    ],
+    "answers": [
+      "A colorful mural.",
+      "On the wall at the art gallery.",
+      "The artist.",
+      "Painting a colorful mural."
+    ]
+  },
+  "prompt_8": {
+    "context": "The doctor treated the patient in the hospital examination room.",
+    "queries": [
+      "Who was being treated?",
+      "Where was the treatment done?",
+      "Who was performing the treatment?",
+      "What procedure was being performed?"
+    ],
+    "answers": [
+      "The patient.",
+      "In the hospital examination room.",
+      "The doctor.",
+      "A medical treatment."
+    ]
+  },
+  "prompt_9": {
+    "context": "At the wooden desk, the writer typed a new chapter of the novel.",
+    "queries": [
+      "What was being typed?",
+      "Where was the typing done?",
+      "Who was typing?",
+      "What type of work was being written?"
+    ],
+    "answers": [
+      "A new chapter of the novel.",
+      "At the wooden desk.",
+      "The writer.",
+      "A novel."
+    ]
+  },
+  "prompt_10": {
+    "context": "The player kicked the ball into the goal on the soccer field.",
+    "queries": [
+      "What was being kicked?",
+      "Who kicked the ball?",
+      "Where did the ball land?",
+      "What sport was being played?"
+    ],
+    "answers": [
+      "The ball.",
+      "The player.",
+      "Into the goal on the soccer field.",
+      "Soccer."
+    ]
+  }
+}

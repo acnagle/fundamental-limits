@@ -1,0 +1,22 @@
+{
+  "prompt_1": {
+    "context": "The gardener watered the flowers in the early morning sun.",
+    "query": "What was the gardener doing?",
+    "answer": "The gardener was watering the flowers."
+  },
+  "prompt_2": {
+    "context": "Late at night, the baker prepared fresh pastries for the morning rush.",
+    "query": "What time did this take place?",
+    "answer": "Late at night."
+  },
+  "prompt_3": {
+    "context": "The photographer captured stunning images of the mountains on a sunny afternoon.",
+    "query": "Where was the photographer likely located?",
+    "answer": "Near the mountains."
+  },
+  "prompt_4": {
+    "context": "In the library, a student researched the history of medieval Europe.",
+    "query": "What subject was being researched?",
+    "answer": "The history of medieval Europe."
+  }
+}

@@ -1,0 +1,1200 @@
+{"idx": 10800, "context": "1100011000", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 4014, "context": "010101101", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 11940, "context": "1111010110", "query": "Count the number of 1s.", "answer": "7"}
+{"idx": 10812, "context": "1100011010", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 12126, "context": "1111110101", "query": "Count the number of 1s.", "answer": "8"}
+{"idx": 3870, "context": "010010101", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 6600, "context": "0001011100", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 9432, "context": "1000110100", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 11586, "context": "1110011011", "query": "Count the number of 1s.", "answer": "7"}
+{"idx": 6918, "context": "0010010001", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 9408, "context": "1000110000", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 2688, "context": "11010000", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 10506, "context": "1011100111", "query": "Count the number of 1s.", "answer": "7"}
+{"idx": 9126, "context": "1000000001", "query": "Count the number of 1s.", "answer": "2"}
+{"idx": 6642, "context": "0001100011", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 774, "context": "0010001", "query": "Count the number of 1s.", "answer": "2"}
+{"idx": 5988, "context": "111110110", "query": "Count the number of 1s.", "answer": "7"}
+{"idx": 11022, "context": "1100111101", "query": "Count the number of 1s.", "answer": "7"}
+{"idx": 8712, "context": "0110111100", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 10404, "context": "1011010110", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 4356, "context": "011100110", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 8130, "context": "0101011011", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 10068, "context": "1010011110", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 8682, "context": "0110110111", "query": "Count the number of 1s.", "answer": "7"}
+{"idx": 9834, "context": "1001110111", "query": "Count the number of 1s.", "answer": "7"}
+{"idx": 7548, "context": "0011111010", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 11934, "context": "1111010101", "query": "Count the number of 1s.", "answer": "7"}
+{"idx": 6558, "context": "0001010101", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 8010, "context": "0101000111", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 9840, "context": "1001111000", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 7044, "context": "0010100110", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 108, "context": "00010", "query": "Count the number of 1s.", "answer": "1"}
+{"idx": 3552, "context": "001100000", "query": "Count the number of 1s.", "answer": "2"}
+{"idx": 4500, "context": "011111110", "query": "Count the number of 1s.", "answer": "7"}
+{"idx": 6606, "context": "0001011101", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 1188, "context": "1010110", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 1482, "context": "00000111", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 4638, "context": "100010101", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 7788, "context": "0100100010", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 1896, "context": "01001100", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 3582, "context": "001100101", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 7986, "context": "0101000011", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 10038, "context": "1010011001", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 9624, "context": "1001010100", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 2334, "context": "10010101", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 3354, "context": "000111111", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 2892, "context": "11110010", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 8970, "context": "0111100111", "query": "Count the number of 1s.", "answer": "7"}
+{"idx": 8478, "context": "0110010101", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 11148, "context": "1101010010", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 6414, "context": "0000111101", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 8538, "context": "0110011111", "query": "Count the number of 1s.", "answer": "7"}
+{"idx": 5490, "context": "110100011", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 8964, "context": "0111100110", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 11226, "context": "1101011111", "query": "Count the number of 1s.", "answer": "8"}
+{"idx": 5088, "context": "101100000", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 6582, "context": "0001011001", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 8406, "context": "0110001001", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 1944, "context": "01010100", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 672, "context": "0000000", "query": "Count the number of 1s.", "answer": "0"}
+{"idx": 4302, "context": "011011101", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 3558, "context": "001100001", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 1152, "context": "1010000", "query": "Count the number of 1s.", "answer": "2"}
+{"idx": 2304, "context": "10010000", "query": "Count the number of 1s.", "answer": "2"}
+{"idx": 10266, "context": "1010111111", "query": "Count the number of 1s.", "answer": "8"}
+{"idx": 11196, "context": "1101011010", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 132, "context": "00110", "query": "Count the number of 1s.", "answer": "2"}
+{"idx": 3144, "context": "000011100", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 2664, "context": "11001100", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 720, "context": "0001000", "query": "Count the number of 1s.", "answer": "1"}
+{"idx": 5208, "context": "101110100", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 4614, "context": "100010001", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 4860, "context": "100111010", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 6330, "context": "0000101111", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 3540, "context": "001011110", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 6978, "context": "0010011011", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 8952, "context": "0111100100", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 5400, "context": "110010100", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 7254, "context": "0011001001", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 5418, "context": "110010111", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 11760, "context": "1110111000", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 2574, "context": "10111101", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 10062, "context": "1010011101", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 5058, "context": "101011011", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 5094, "context": "101100001", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 10728, "context": "1100001100", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 7620, "context": "0100000110", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 144, "context": "01000", "query": "Count the number of 1s.", "answer": "1"}
+{"idx": 846, "context": "0011101", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 5688, "context": "111000100", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 9864, "context": "1001111100", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 5898, "context": "111100111", "query": "Count the number of 1s.", "answer": "7"}
+{"idx": 4410, "context": "011101111", "query": "Count the number of 1s.", "answer": "7"}
+{"idx": 11772, "context": "1110111010", "query": "Count the number of 1s.", "answer": "7"}
+{"idx": 9570, "context": "1001001011", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 10284, "context": "1011000010", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 8652, "context": "0110110010", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 5106, "context": "101100011", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 5778, "context": "111010011", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 11838, "context": "1111000101", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 5100, "context": "101100010", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 9696, "context": "1001100000", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 7524, "context": "0011110110", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 1656, "context": "00100100", "query": "Count the number of 1s.", "answer": "2"}
+{"idx": 11628, "context": "1110100010", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 4248, "context": "011010100", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 7596, "context": "0100000010", "query": "Count the number of 1s.", "answer": "2"}
+{"idx": 12174, "context": "1111111101", "query": "Count the number of 1s.", "answer": "9"}
+{"idx": 8886, "context": "0111011001", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 3834, "context": "010001111", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 4458, "context": "011110111", "query": "Count the number of 1s.", "answer": "7"}
+{"idx": 4212, "context": "011001110", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 10956, "context": "1100110010", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 3918, "context": "010011101", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 6102, "context": "0000001001", "query": "Count the number of 1s.", "answer": "2"}
+{"idx": 10908, "context": "1100101010", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 7356, "context": "0011011010", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 3960, "context": "010100100", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 8220, "context": "0101101010", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 9948, "context": "1010001010", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 1662, "context": "00100101", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 3978, "context": "010100111", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 6678, "context": "0001101001", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 9486, "context": "1000111101", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 11658, "context": "1110100111", "query": "Count the number of 1s.", "answer": "7"}
+{"idx": 11808, "context": "1111000000", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 10548, "context": "1011101110", "query": "Count the number of 1s.", "answer": "7"}
+{"idx": 10206, "context": "1010110101", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 4392, "context": "011101100", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 11844, "context": "1111000110", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 306, "context": "000011", "query": "Count the number of 1s.", "answer": "2"}
+{"idx": 11064, "context": "1101000100", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 1110, "context": "1001001", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 9246, "context": "1000010101", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 11352, "context": "1101110100", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 8046, "context": "0101001101", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 7002, "context": "0010011111", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 8550, "context": "0110100001", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 1536, "context": "00010000", "query": "Count the number of 1s.", "answer": "1"}
+{"idx": 9348, "context": "1000100110", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 4158, "context": "011000101", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 8472, "context": "0110010100", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 10368, "context": "1011010000", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 8142, "context": "0101011101", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 4308, "context": "011011110", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 5220, "context": "101110110", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 8154, "context": "0101011111", "query": "Count the number of 1s.", "answer": "7"}
+{"idx": 1074, "context": "1000011", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 252, "context": "11010", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 4578, "context": "100001011", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 8688, "context": "0110111000", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 1032, "context": "0111100", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 2310, "context": "10010001", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 2274, "context": "10001011", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 1314, "context": "1101011", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 8004, "context": "0101000110", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 8742, "context": "0111000001", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 10020, "context": "1010010110", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 2778, "context": "11011111", "query": "Count the number of 1s.", "answer": "7"}
+{"idx": 7698, "context": "0100010011", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 11406, "context": "1101111101", "query": "Count the number of 1s.", "answer": "8"}
+{"idx": 9582, "context": "1001001101", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 2556, "context": "10111010", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 2736, "context": "11011000", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 4968, "context": "101001100", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 8268, "context": "0101110010", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 4068, "context": "010110110", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 4848, "context": "100111000", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 12048, "context": "1111101000", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 5496, "context": "110100100", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 6654, "context": "0001100101", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 8718, "context": "0110111101", "query": "Count the number of 1s.", "answer": "7"}
+{"idx": 8796, "context": "0111001010", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 9672, "context": "1001011100", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 2946, "context": "11111011", "query": "Count the number of 1s.", "answer": "7"}
+{"idx": 7440, "context": "0011101000", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 4794, "context": "100101111", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 1176, "context": "1010100", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 7476, "context": "0011101110", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 10344, "context": "1011001100", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 10386, "context": "1011010011", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 7032, "context": "0010100100", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 10272, "context": "1011000000", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 9936, "context": "1010001000", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 834, "context": "0011011", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 10932, "context": "1100101110", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 11190, "context": "1101011001", "query": "Count the number of 1s.", "answer": "6"}
+{"idx": 11640, "context": "1110100100", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 11418, "context": "1101111111", "query": "Count the number of 1s.", "answer": "9"}
+{"idx": 1548, "context": "00010010", "query": "Count the number of 1s.", "answer": "2"}
+{"idx": 4380, "context": "011101010", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 2238, "context": "10000101", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 378, "context": "001111", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 3600, "context": "001101000", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 4494, "context": "011111101", "query": "Count the number of 1s.", "answer": "7"}
+{"idx": 9600, "context": "1001010000", "query": "Count the number of 1s.", "answer": "3"}
+{"idx": 11706, "context": "1110101111", "query": "Count the number of 1s.", "answer": "8"}
+{"idx": 11100, "context": "1101001010", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 7764, "context": "0100011110", "query": "Count the number of 1s.", "answer": "5"}
+{"idx": 7416, "context": "0011100100", "query": "Count the number of 1s.", "answer": "4"}
+{"idx": 9601, "context": "1001010000", "query": "Count the number of 0s.", "answer": "7"}
+{"idx": 6007, "context": "111111001", "query": "Count the number of 0s.", "answer": "2"}
+{"idx": 5221, "context": "101110110", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 8725, "context": "0110111110", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 6529, "context": "0001010000", "query": "Count the number of 0s.", "answer": "8"}
+{"idx": 2401, "context": "10100000", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 1873, "context": "01001000", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 9679, "context": "1001011101", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 9505, "context": "1001000000", "query": "Count the number of 0s.", "answer": "8"}
+{"idx": 8833, "context": "0111010000", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 10321, "context": "1011001000", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 2329, "context": "10010100", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 655, "context": "111101", "query": "Count the number of 0s.", "answer": "1"}
+{"idx": 4783, "context": "100101101", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 1555, "context": "00010011", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 4759, "context": "100101001", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 355, "context": "001011", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 7225, "context": "0011000100", "query": "Count the number of 0s.", "answer": "7"}
+{"idx": 7615, "context": "0100000101", "query": "Count the number of 0s.", "answer": "7"}
+{"idx": 229, "context": "10110", "query": "Count the number of 0s.", "answer": "2"}
+{"idx": 5683, "context": "111000011", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 7009, "context": "0010100000", "query": "Count the number of 0s.", "answer": "8"}
+{"idx": 7117, "context": "0010110010", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 4675, "context": "100011011", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 4915, "context": "101000011", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 8185, "context": "0101100100", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 9253, "context": "1000010110", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 6427, "context": "0000111111", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 727, "context": "0001001", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 6433, "context": "0001000000", "query": "Count the number of 0s.", "answer": "9"}
+{"idx": 8683, "context": "0110110111", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 11635, "context": "1110100011", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 11335, "context": "1101110001", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 10207, "context": "1010110101", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 4363, "context": "011100111", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 9247, "context": "1000010101", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 6385, "context": "0000111000", "query": "Count the number of 0s.", "answer": "7"}
+{"idx": 685, "context": "0000010", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 11647, "context": "1110100101", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 8047, "context": "0101001101", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 2479, "context": "10101101", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 1039, "context": "0111101", "query": "Count the number of 0s.", "answer": "2"}
+{"idx": 3919, "context": "010011101", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 11389, "context": "1101111010", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 361, "context": "001100", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 415, "context": "010101", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 7849, "context": "0100101100", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 49, "context": "1000", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 673, "context": "0000000", "query": "Count the number of 0s.", "answer": "7"}
+{"idx": 7303, "context": "0011010001", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 11875, "context": "1111001011", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 8587, "context": "0110100111", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 8653, "context": "0110110010", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 3001, "context": "000000100", "query": "Count the number of 0s.", "answer": "8"}
+{"idx": 12175, "context": "1111111101", "query": "Count the number of 0s.", "answer": "1"}
+{"idx": 175, "context": "01101", "query": "Count the number of 0s.", "answer": "2"}
+{"idx": 2467, "context": "10101011", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 6691, "context": "0001101011", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 2389, "context": "10011110", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 2527, "context": "10110101", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 4645, "context": "100010110", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 349, "context": "001010", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 2695, "context": "11010001", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 9721, "context": "1001100100", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 2035, "context": "01100011", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 7525, "context": "0011110110", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 679, "context": "0000001", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 12091, "context": "1111101111", "query": "Count the number of 0s.", "answer": "1"}
+{"idx": 4813, "context": "100110010", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 1273, "context": "1100100", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 3403, "context": "001000111", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 4507, "context": "011111111", "query": "Count the number of 0s.", "answer": "1"}
+{"idx": 2593, "context": "11000000", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 2725, "context": "11010110", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 9913, "context": "1010000100", "query": "Count the number of 0s.", "answer": "7"}
+{"idx": 3763, "context": "010000011", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 3595, "context": "001100111", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 10645, "context": "1011111110", "query": "Count the number of 0s.", "answer": "2"}
+{"idx": 6181, "context": "0000010110", "query": "Count the number of 0s.", "answer": "7"}
+{"idx": 4465, "context": "011111000", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 2107, "context": "01101111", "query": "Count the number of 0s.", "answer": "2"}
+{"idx": 4327, "context": "011100001", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 6835, "context": "0010000011", "query": "Count the number of 0s.", "answer": "7"}
+{"idx": 1573, "context": "00010110", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 3307, "context": "000110111", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 3625, "context": "001101100", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 9343, "context": "1000100101", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 10279, "context": "1011000001", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 11395, "context": "1101111011", "query": "Count the number of 0s.", "answer": "2"}
+{"idx": 6133, "context": "0000001110", "query": "Count the number of 0s.", "answer": "7"}
+{"idx": 7423, "context": "0011100101", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 7429, "context": "0011100110", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 2233, "context": "10000100", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 2911, "context": "11110101", "query": "Count the number of 0s.", "answer": "2"}
+{"idx": 1453, "context": "00000010", "query": "Count the number of 0s.", "answer": "7"}
+{"idx": 7417, "context": "0011100100", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 10363, "context": "1011001111", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 5437, "context": "110011010", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 6577, "context": "0001011000", "query": "Count the number of 0s.", "answer": "7"}
+{"idx": 4561, "context": "100001000", "query": "Count the number of 0s.", "answer": "7"}
+{"idx": 10183, "context": "1010110001", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 10555, "context": "1011101111", "query": "Count the number of 0s.", "answer": "2"}
+{"idx": 3067, "context": "000001111", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 4687, "context": "100011101", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 6661, "context": "0001100110", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 8995, "context": "0111101011", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 9121, "context": "1000000000", "query": "Count the number of 0s.", "answer": "9"}
+{"idx": 10807, "context": "1100011001", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 559, "context": "101101", "query": "Count the number of 0s.", "answer": "2"}
+{"idx": 2545, "context": "10111000", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 2017, "context": "01100000", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 11053, "context": "1101000010", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 2185, "context": "01111100", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 8413, "context": "0110001010", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 9055, "context": "0111110101", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 4141, "context": "011000010", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 4399, "context": "011101101", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 6883, "context": "0010001011", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 9241, "context": "1000010100", "query": "Count the number of 0s.", "answer": "7"}
+{"idx": 787, "context": "0010011", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 9229, "context": "1000010010", "query": "Count the number of 0s.", "answer": "7"}
+{"idx": 2773, "context": "11011110", "query": "Count the number of 0s.", "answer": "2"}
+{"idx": 313, "context": "000100", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 3499, "context": "001010111", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 1225, "context": "1011100", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 6523, "context": "0001001111", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 3745, "context": "010000000", "query": "Count the number of 0s.", "answer": "8"}
+{"idx": 1567, "context": "00010101", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 1153, "context": "1010000", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 9775, "context": "1001101101", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 9361, "context": "1000101000", "query": "Count the number of 0s.", "answer": "7"}
+{"idx": 8197, "context": "0101100110", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 4195, "context": "011001011", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 6097, "context": "0000001000", "query": "Count the number of 0s.", "answer": "9"}
+{"idx": 10063, "context": "1010011101", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 517, "context": "100110", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 2629, "context": "11000110", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 11137, "context": "1101010000", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 205, "context": "10010", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 8239, "context": "0101101101", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 4729, "context": "100100100", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 2947, "context": "11111011", "query": "Count the number of 0s.", "answer": "1"}
+{"idx": 4543, "context": "100000101", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 11305, "context": "1101101100", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 3163, "context": "000011111", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 3523, "context": "001011011", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 4267, "context": "011010111", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 67, "context": "1011", "query": "Count the number of 0s.", "answer": "1"}
+{"idx": 5095, "context": "101100001", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 3043, "context": "000001011", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 6697, "context": "0001101100", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 10219, "context": "1010110111", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 1015, "context": "0111001", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 8395, "context": "0110000111", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 2995, "context": "000000011", "query": "Count the number of 0s.", "answer": "7"}
+{"idx": 11581, "context": "1110011010", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 2641, "context": "11001000", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 6301, "context": "0000101010", "query": "Count the number of 0s.", "answer": "7"}
+{"idx": 127, "context": "00101", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 9763, "context": "1001101011", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 73, "context": "1100", "query": "Count the number of 0s.", "answer": "2"}
+{"idx": 3295, "context": "000110101", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 5641, "context": "110111100", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 6067, "context": "0000000011", "query": "Count the number of 0s.", "answer": "8"}
+{"idx": 6997, "context": "0010011110", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 5173, "context": "101101110", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 11449, "context": "1110000100", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 4393, "context": "011101100", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 5485, "context": "110100010", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 10003, "context": "1010010011", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 7189, "context": "0010111110", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 10693, "context": "1100000110", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 12031, "context": "1111100101", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 6799, "context": "0001111101", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 1171, "context": "1010011", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 8293, "context": "0101110110", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 7315, "context": "0011010011", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 5365, "context": "110001110", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 5509, "context": "110100110", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 9217, "context": "1000010000", "query": "Count the number of 0s.", "answer": "8"}
+{"idx": 1603, "context": "00011011", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 8845, "context": "0111010010", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 12163, "context": "1111111011", "query": "Count the number of 0s.", "answer": "1"}
+{"idx": 8701, "context": "0110111010", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 1129, "context": "1001100", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 8857, "context": "0111010100", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 5209, "context": "101110100", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 859, "context": "0011111", "query": "Count the number of 0s.", "answer": "2"}
+{"idx": 3181, "context": "000100010", "query": "Count the number of 0s.", "answer": "7"}
+{"idx": 7519, "context": "0011110101", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 5323, "context": "110000111", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 577, "context": "110000", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 7033, "context": "0010100100", "query": "Count the number of 0s.", "answer": "7"}
+{"idx": 8023, "context": "0101001001", "query": "Count the number of 0s.", "answer": "6"}
+{"idx": 3283, "context": "000110011", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 2611, "context": "11000011", "query": "Count the number of 0s.", "answer": "4"}
+{"idx": 7195, "context": "0010111111", "query": "Count the number of 0s.", "answer": "3"}
+{"idx": 7909, "context": "0100110110", "query": "Count the number of 0s.", "answer": "5"}
+{"idx": 1375, "context": "1110101", "query": "Count the number of 0s.", "answer": "2"}
+{"idx": 2989, "context": "000000010", "query": "Count the number of 0s.", "answer": "8"}
+{"idx": 7736, "context": "0100011001", "query": "Compute the parity.", "answer": "0"}
+{"idx": 3710, "context": "001111010", "query": "Compute the parity.", "answer": "1"}
+{"idx": 3680, "context": "001110101", "query": "Compute the parity.", "answer": "1"}
+{"idx": 3848, "context": "010010001", "query": "Compute the parity.", "answer": "1"}
+{"idx": 2672, "context": "11001101", "query": "Compute the parity.", "answer": "1"}
+{"idx": 6530, "context": "0001010000", "query": "Compute the parity.", "answer": "0"}
+{"idx": 6932, "context": "0010010011", "query": "Compute the parity.", "answer": "0"}
+{"idx": 3920, "context": "010011101", "query": "Compute the parity.", "answer": "1"}
+{"idx": 8882, "context": "0111011000", "query": "Compute the parity.", "answer": "1"}
+{"idx": 7586, "context": "0100000000", "query": "Compute the parity.", "answer": "1"}
+{"idx": 4808, "context": "100110001", "query": "Compute the parity.", "answer": "0"}
+{"idx": 3638, "context": "001101110", "query": "Compute the parity.", "answer": "1"}
+{"idx": 5852, "context": "111011111", "query": "Compute the parity.", "answer": "0"}
+{"idx": 5480, "context": "110100001", "query": "Compute the parity.", "answer": "0"}
+{"idx": 11180, "context": "1101010111", "query": "Compute the parity.", "answer": "1"}
+{"idx": 8642, "context": "0110110000", "query": "Compute the parity.", "answer": "0"}
+{"idx": 7856, "context": "0100101101", "query": "Compute the parity.", "answer": "1"}
+{"idx": 920, "context": "0101001", "query": "Compute the parity.", "answer": "1"}
+{"idx": 8684, "context": "0110110111", "query": "Compute the parity.", "answer": "1"}
+{"idx": 4676, "context": "100011011", "query": "Compute the parity.", "answer": "1"}
+{"idx": 8246, "context": "0101101110", "query": "Compute the parity.", "answer": "0"}
+{"idx": 10304, "context": "1011000101", "query": "Compute the parity.", "answer": "1"}
+{"idx": 7022, "context": "0010100010", "query": "Compute the parity.", "answer": "1"}
+{"idx": 9242, "context": "1000010100", "query": "Compute the parity.", "answer": "1"}
+{"idx": 7256, "context": "0011001001", "query": "Compute the parity.", "answer": "0"}
+{"idx": 9440, "context": "1000110101", "query": "Compute the parity.", "answer": "1"}
+{"idx": 6566, "context": "0001010110", "query": "Compute the parity.", "answer": "0"}
+{"idx": 1280, "context": "1100101", "query": "Compute the parity.", "answer": "0"}
+{"idx": 6044, "context": "111111111", "query": "Compute the parity.", "answer": "1"}
+{"idx": 1394, "context": "1111000", "query": "Compute the parity.", "answer": "0"}
+{"idx": 7664, "context": "0100001101", "query": "Compute the parity.", "answer": "0"}
+{"idx": 11018, "context": "1100111100", "query": "Compute the parity.", "answer": "0"}
+{"idx": 2030, "context": "01100010", "query": "Compute the parity.", "answer": "1"}
+{"idx": 9566, "context": "1001001010", "query": "Compute the parity.", "answer": "0"}
+{"idx": 8840, "context": "0111010001", "query": "Compute the parity.", "answer": "1"}
+{"idx": 3416, "context": "001001001", "query": "Compute the parity.", "answer": "1"}
+{"idx": 11936, "context": "1111010101", "query": "Compute the parity.", "answer": "1"}
+{"idx": 1646, "context": "00100010", "query": "Compute the parity.", "answer": "0"}
+{"idx": 6410, "context": "0000111100", "query": "Compute the parity.", "answer": "0"}
+{"idx": 3812, "context": "010001011", "query": "Compute the parity.", "answer": "0"}
+{"idx": 8564, "context": "0110100011", "query": "Compute the parity.", "answer": "1"}
+{"idx": 7898, "context": "0100110100", "query": "Compute the parity.", "answer": "0"}
+{"idx": 8756, "context": "0111000011", "query": "Compute the parity.", "answer": "1"}
+{"idx": 7316, "context": "0011010011", "query": "Compute the parity.", "answer": "1"}
+{"idx": 1208, "context": "1011001", "query": "Compute the parity.", "answer": "0"}
+{"idx": 4412, "context": "011101111", "query": "Compute the parity.", "answer": "1"}
+{"idx": 10046, "context": "1010011010", "query": "Compute the parity.", "answer": "1"}
+{"idx": 1178, "context": "1010100", "query": "Compute the parity.", "answer": "1"}
+{"idx": 8024, "context": "0101001001", "query": "Compute the parity.", "answer": "0"}
+{"idx": 10634, "context": "1011111100", "query": "Compute the parity.", "answer": "1"}
+{"idx": 9800, "context": "1001110001", "query": "Compute the parity.", "answer": "1"}
+{"idx": 2528, "context": "10110101", "query": "Compute the parity.", "answer": "1"}
+{"idx": 1658, "context": "00100100", "query": "Compute the parity.", "answer": "0"}
+{"idx": 9248, "context": "1000010101", "query": "Compute the parity.", "answer": "0"}
+{"idx": 4778, "context": "100101100", "query": "Compute the parity.", "answer": "0"}
+{"idx": 5312, "context": "110000101", "query": "Compute the parity.", "answer": "0"}
+{"idx": 2600, "context": "11000001", "query": "Compute the parity.", "answer": "1"}
+{"idx": 11144, "context": "1101010001", "query": "Compute the parity.", "answer": "1"}
+{"idx": 4304, "context": "011011101", "query": "Compute the parity.", "answer": "0"}
+{"idx": 9680, "context": "1001011101", "query": "Compute the parity.", "answer": "0"}
+{"idx": 9062, "context": "0111110110", "query": "Compute the parity.", "answer": "1"}
+{"idx": 10886, "context": "1100100110", "query": "Compute the parity.", "answer": "1"}
+{"idx": 6770, "context": "0001111000", "query": "Compute the parity.", "answer": "0"}
+{"idx": 9656, "context": "1001011001", "query": "Compute the parity.", "answer": "1"}
+{"idx": 3308, "context": "000110111", "query": "Compute the parity.", "answer": "1"}
+{"idx": 386, "context": "010000", "query": "Compute the parity.", "answer": "1"}
+{"idx": 7334, "context": "0011010110", "query": "Compute the parity.", "answer": "1"}
+{"idx": 104, "context": "00001", "query": "Compute the parity.", "answer": "1"}
+{"idx": 9836, "context": "1001110111", "query": "Compute the parity.", "answer": "1"}
+{"idx": 8960, "context": "0111100101", "query": "Compute the parity.", "answer": "0"}
+{"idx": 4586, "context": "100001100", "query": "Compute the parity.", "answer": "1"}
+{"idx": 7772, "context": "0100011111", "query": "Compute the parity.", "answer": "0"}
+{"idx": 464, "context": "011101", "query": "Compute the parity.", "answer": "0"}
+{"idx": 10238, "context": "1010111010", "query": "Compute the parity.", "answer": "0"}
+{"idx": 9944, "context": "1010001001", "query": "Compute the parity.", "answer": "0"}
+{"idx": 5648, "context": "110111101", "query": "Compute the parity.", "answer": "1"}
+{"idx": 7118, "context": "0010110010", "query": "Compute the parity.", "answer": "0"}
+{"idx": 12080, "context": "1111101101", "query": "Compute the parity.", "answer": "0"}
+{"idx": 11198, "context": "1101011010", "query": "Compute the parity.", "answer": "0"}
+{"idx": 5024, "context": "101010101", "query": "Compute the parity.", "answer": "1"}
+{"idx": 6656, "context": "0001100101", "query": "Compute the parity.", "answer": "0"}
+{"idx": 6536, "context": "0001010001", "query": "Compute the parity.", "answer": "1"}
+{"idx": 1418, "context": "1111100", "query": "Compute the parity.", "answer": "1"}
+{"idx": 9914, "context": "1010000100", "query": "Compute the parity.", "answer": "1"}
+{"idx": 1838, "context": "01000010", "query": "Compute the parity.", "answer": "0"}
+{"idx": 7148, "context": "0010110111", "query": "Compute the parity.", "answer": "0"}
+{"idx": 7286, "context": "0011001110", "query": "Compute the parity.", "answer": "1"}
+{"idx": 1058, "context": "1000000", "query": "Compute the parity.", "answer": "1"}
+{"idx": 9008, "context": "0111101101", "query": "Compute the parity.", "answer": "1"}
+{"idx": 6644, "context": "0001100011", "query": "Compute the parity.", "answer": "0"}
+{"idx": 7874, "context": "0100110000", "query": "Compute the parity.", "answer": "1"}
+{"idx": 5438, "context": "110011010", "query": "Compute the parity.", "answer": "1"}
+{"idx": 4568, "context": "100001001", "query": "Compute the parity.", "answer": "1"}
+{"idx": 2648, "context": "11001001", "query": "Compute the parity.", "answer": "0"}
+{"idx": 8930, "context": "0111100000", "query": "Compute the parity.", "answer": "0"}
+{"idx": 806, "context": "0010110", "query": "Compute the parity.", "answer": "1"}
+{"idx": 10910, "context": "1100101010", "query": "Compute the parity.", "answer": "1"}
+{"idx": 2240, "context": "10000101", "query": "Compute the parity.", "answer": "1"}
+{"idx": 440, "context": "011001", "query": "Compute the parity.", "answer": "1"}
+{"idx": 620, "context": "110111", "query": "Compute the parity.", "answer": "1"}
+{"idx": 7292, "context": "0011001111", "query": "Compute the parity.", "answer": "0"}
+{"idx": 8324, "context": "0101111011", "query": "Compute the parity.", "answer": "1"}
+{"idx": 2048, "context": "01100101", "query": "Compute the parity.", "answer": "0"}
+{"idx": 4982, "context": "101001110", "query": "Compute the parity.", "answer": "1"}
+{"idx": 12152, "context": "1111111001", "query": "Compute the parity.", "answer": "0"}
+{"idx": 10820, "context": "1100011011", "query": "Compute the parity.", "answer": "0"}
+{"idx": 488, "context": "100001", "query": "Compute the parity.", "answer": "0"}
+{"idx": 2246, "context": "10000110", "query": "Compute the parity.", "answer": "1"}
+{"idx": 7646, "context": "0100001010", "query": "Compute the parity.", "answer": "1"}
+{"idx": 5342, "context": "110001010", "query": "Compute the parity.", "answer": "0"}
+{"idx": 10160, "context": "1010101101", "query": "Compute the parity.", "answer": "0"}
+{"idx": 4736, "context": "100100101", "query": "Compute the parity.", "answer": "0"}
+{"idx": 1880, "context": "01001001", "query": "Compute the parity.", "answer": "1"}
+{"idx": 6506, "context": "0001001100", "query": "Compute the parity.", "answer": "1"}
+{"idx": 1442, "context": "00000000", "query": "Compute the parity.", "answer": "0"}
+{"idx": 398, "context": "010010", "query": "Compute the parity.", "answer": "0"}
+{"idx": 1004, "context": "0110111", "query": "Compute the parity.", "answer": "1"}
+{"idx": 5432, "context": "110011001", "query": "Compute the parity.", "answer": "1"}
+{"idx": 10766, "context": "1100010010", "query": "Compute the parity.", "answer": "0"}
+{"idx": 1184, "context": "1010101", "query": "Compute the parity.", "answer": "0"}
+{"idx": 1124, "context": "1001011", "query": "Compute the parity.", "answer": "0"}
+{"idx": 3200, "context": "000100101", "query": "Compute the parity.", "answer": "1"}
+{"idx": 3146, "context": "000011100", "query": "Compute the parity.", "answer": "1"}
+{"idx": 11156, "context": "1101010011", "query": "Compute the parity.", "answer": "0"}
+{"idx": 9410, "context": "1000110000", "query": "Compute the parity.", "answer": "1"}
+{"idx": 11042, "context": "1101000000", "query": "Compute the parity.", "answer": "1"}
+{"idx": 7100, "context": "0010101111", "query": "Compute the parity.", "answer": "0"}
+{"idx": 1928, "context": "01010001", "query": "Compute the parity.", "answer": "1"}
+{"idx": 4610, "context": "100010000", "query": "Compute the parity.", "answer": "0"}
+{"idx": 9428, "context": "1000110011", "query": "Compute the parity.", "answer": "1"}
+{"idx": 1106, "context": "1001000", "query": "Compute the parity.", "answer": "0"}
+{"idx": 2354, "context": "10011000", "query": "Compute the parity.", "answer": "1"}
+{"idx": 7466, "context": "0011101100", "query": "Compute the parity.", "answer": "1"}
+{"idx": 3338, "context": "000111100", "query": "Compute the parity.", "answer": "0"}
+{"idx": 332, "context": "000111", "query": "Compute the parity.", "answer": "1"}
+{"idx": 368, "context": "001101", "query": "Compute the parity.", "answer": "1"}
+{"idx": 2930, "context": "11111000", "query": "Compute the parity.", "answer": "1"}
+{"idx": 362, "context": "001100", "query": "Compute the parity.", "answer": "0"}
+{"idx": 3734, "context": "001111110", "query": "Compute the parity.", "answer": "0"}
+{"idx": 3974, "context": "010100110", "query": "Compute the parity.", "answer": "0"}
+{"idx": 7718, "context": "0100010110", "query": "Compute the parity.", "answer": "0"}
+{"idx": 10724, "context": "1100001011", "query": "Compute the parity.", "answer": "1"}
+{"idx": 5360, "context": "110001101", "query": "Compute the parity.", "answer": "1"}
+{"idx": 8306, "context": "0101111000", "query": "Compute the parity.", "answer": "1"}
+{"idx": 3176, "context": "000100001", "query": "Compute the parity.", "answer": "0"}
+{"idx": 11942, "context": "1111010110", "query": "Compute the parity.", "answer": "1"}
+{"idx": 11576, "context": "1110011001", "query": "Compute the parity.", "answer": "0"}
+{"idx": 4058, "context": "010110100", "query": "Compute the parity.", "answer": "0"}
+{"idx": 5918, "context": "111101010", "query": "Compute the parity.", "answer": "0"}
+{"idx": 11204, "context": "1101011011", "query": "Compute the parity.", "answer": "1"}
+{"idx": 5006, "context": "101010010", "query": "Compute the parity.", "answer": "0"}
+{"idx": 10880, "context": "1100100101", "query": "Compute the parity.", "answer": "1"}
+{"idx": 3656, "context": "001110001", "query": "Compute the parity.", "answer": "0"}
+{"idx": 11486, "context": "1110001010", "query": "Compute the parity.", "answer": "1"}
+{"idx": 4256, "context": "011010101", "query": "Compute the parity.", "answer": "1"}
+{"idx": 1934, "context": "01010010", "query": "Compute the parity.", "answer": "1"}
+{"idx": 6026, "context": "111111100", "query": "Compute the parity.", "answer": "1"}
+{"idx": 9536, "context": "1001000101", "query": "Compute the parity.", "answer": "0"}
+{"idx": 3290, "context": "000110100", "query": "Compute the parity.", "answer": "1"}
+{"idx": 692, "context": "0000011", "query": "Compute the parity.", "answer": "0"}
+{"idx": 10490, "context": "1011100100", "query": "Compute the parity.", "answer": "1"}
+{"idx": 4820, "context": "100110011", "query": "Compute the parity.", "answer": "1"}
+{"idx": 2816, "context": "11100101", "query": "Compute the parity.", "answer": "1"}
+{"idx": 11792, "context": "1110111101", "query": "Compute the parity.", "answer": "0"}
+{"idx": 11066, "context": "1101000100", "query": "Compute the parity.", "answer": "0"}
+{"idx": 11996, "context": "1111011111", "query": "Compute the parity.", "answer": "1"}
+{"idx": 380, "context": "001111", "query": "Compute the parity.", "answer": "0"}
+{"idx": 4016, "context": "010101101", "query": "Compute the parity.", "answer": "1"}
+{"idx": 7622, "context": "0100000110", "query": "Compute the parity.", "answer": "1"}
+{"idx": 4640, "context": "100010101", "query": "Compute the parity.", "answer": "0"}
+{"idx": 7658, "context": "0100001100", "query": "Compute the parity.", "answer": "1"}
+{"idx": 6308, "context": "0000101011", "query": "Compute the parity.", "answer": "0"}
+{"idx": 8972, "context": "0111100111", "query": "Compute the parity.", "answer": "1"}
+{"idx": 7508, "context": "0011110011", "query": "Compute the parity.", "answer": "0"}
+{"idx": 7670, "context": "0100001110", "query": "Compute the parity.", "answer": "0"}
+{"idx": 4658, "context": "100011000", "query": "Compute the parity.", "answer": "1"}
+{"idx": 5990, "context": "111110110", "query": "Compute the parity.", "answer": "1"}
+{"idx": 9956, "context": "1010001011", "query": "Compute the parity.", "answer": "1"}
+{"idx": 5126, "context": "101100110", "query": "Compute the parity.", "answer": "1"}
+{"idx": 1448, "context": "00000001", "query": "Compute the parity.", "answer": "1"}
+{"idx": 4832, "context": "100110101", "query": "Compute the parity.", "answer": "1"}
+{"idx": 4004, "context": "010101011", "query": "Compute the parity.", "answer": "1"}
+{"idx": 7028, "context": "0010100011", "query": "Compute the parity.", "answer": "0"}
+{"idx": 536, "context": "101001", "query": "Compute the parity.", "answer": "1"}
+{"idx": 4148, "context": "011000011", "query": "Compute the parity.", "answer": "0"}
+{"idx": 7202, "context": "0011000000", "query": "Compute the parity.", "answer": "0"}
+{"idx": 8252, "context": "0101101111", "query": "Compute the parity.", "answer": "1"}
+{"idx": 10184, "context": "1010110001", "query": "Compute the parity.", "answer": "1"}
+{"idx": 8906, "context": "0111011100", "query": "Compute the parity.", "answer": "0"}
+{"idx": 428, "context": "010111", "query": "Compute the parity.", "answer": "0"}
+{"idx": 1988, "context": "01011011", "query": "Compute the parity.", "answer": "1"}
+{"idx": 8828, "context": "0111001111", "query": "Compute the parity.", "answer": "1"}
+{"idx": 7406, "context": "0011100010", "query": "Compute the parity.", "answer": "0"}
+{"idx": 10604, "context": "1011110111", "query": "Compute the parity.", "answer": "0"}
+{"idx": 8798, "context": "0111001010", "query": "Compute the parity.", "answer": "1"}
+{"idx": 6680, "context": "0001101001", "query": "Compute the parity.", "answer": "0"}
+{"idx": 10538, "context": "1011101100", "query": "Compute the parity.", "answer": "0"}
+{"idx": 1898, "context": "01001100", "query": "Compute the parity.", "answer": "1"}
+{"idx": 11276, "context": "1101100111", "query": "Compute the parity.", "answer": "1"}
+{"idx": 6920, "context": "0010010001", "query": "Compute the parity.", "answer": "1"}
+{"idx": 3237, "context": "000101011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 3285, "context": "000110011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 5487, "context": "110100010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 1797, "context": "00111011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 7623, "context": "0100000110", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "5"}
+{"idx": 8649, "context": "0110110001", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 9075, "context": "0111111000", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "6"}
+{"idx": 4683, "context": "100011100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 10863, "context": "1100100010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 2265, "context": "10001001", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 1713, "context": "00101101", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 6747, "context": "0001110100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 4623, "context": "100010010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 2673, "context": "11001101", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 5805, "context": "111010111", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 11823, "context": "1111000010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 10383, "context": "1011010010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 11913, "context": "1111010001", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 5271, "context": "101111110", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "6"}
+{"idx": 5691, "context": "111000100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 6057, "context": "0000000001", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "9"}
+{"idx": 3171, "context": "000100000", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "5"}
+{"idx": 1335, "context": "1101110", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 2667, "context": "11001100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 9183, "context": "1000001010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "5"}
+{"idx": 2631, "context": "11000110", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 11193, "context": "1101011001", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 11553, "context": "1110010101", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 5853, "context": "111011111", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "5"}
+{"idx": 867, "context": "0100000", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "5"}
+{"idx": 1995, "context": "01011100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 1101, "context": "1000111", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 11487, "context": "1110001010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 11625, "context": "1110100001", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 519, "context": "100110", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 9903, "context": "1010000010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "5"}
+{"idx": 10623, "context": "1011111010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "5"}
+{"idx": 2607, "context": "11000010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 5733, "context": "111001011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 3987, "context": "010101000", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 4353, "context": "011100101", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 11031, "context": "1100111110", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "5"}
+{"idx": 8037, "context": "0101001011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 7791, "context": "0100100010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 6021, "context": "111111011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "6"}
+{"idx": 4431, "context": "011110010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 9675, "context": "1001011100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 2085, "context": "01101011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 11127, "context": "1101001110", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 2853, "context": "11101011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 5307, "context": "110000100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 9255, "context": "1000010110", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 2199, "context": "01111110", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "6"}
+{"idx": 7605, "context": "0100000011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "6"}
+{"idx": 12033, "context": "1111100101", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "5"}
+{"idx": 2037, "context": "01100011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 9771, "context": "1001101100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 7617, "context": "0100000101", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "5"}
+{"idx": 11637, "context": "1110100011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 4461, "context": "011110111", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 4251, "context": "011010100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 6597, "context": "0001011011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 11463, "context": "1110000110", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 9195, "context": "1000001100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "5"}
+{"idx": 7461, "context": "0011101011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 4011, "context": "010101100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 4677, "context": "100011011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 5619, "context": "110111000", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 2175, "context": "01111010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 6063, "context": "0000000010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "8"}
+{"idx": 10839, "context": "1100011110", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 1449, "context": "00000001", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "7"}
+{"idx": 7143, "context": "0010110110", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 1197, "context": "1010111", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 11451, "context": "1110000100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 9573, "context": "1001001011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 1149, "context": "1001111", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 429, "context": "010111", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 729, "context": "0001001", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 12075, "context": "1111101100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "5"}
+{"idx": 6999, "context": "0010011110", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 2763, "context": "11011100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 11391, "context": "1101111010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 4899, "context": "101000000", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "6"}
+{"idx": 8403, "context": "0110001000", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 1443, "context": "00000000", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "8"}
+{"idx": 3051, "context": "000001100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "5"}
+{"idx": 11715, "context": "1110110000", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 2619, "context": "11000100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 9951, "context": "1010001010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 11325, "context": "1101101111", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 4119, "context": "010111110", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "5"}
+{"idx": 6789, "context": "0001111011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 2991, "context": "000000010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "7"}
+{"idx": 10077, "context": "1010011111", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "5"}
+{"idx": 651, "context": "111100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 8469, "context": "0110010011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 7917, "context": "0100110111", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 9333, "context": "1000100011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 1653, "context": "00100011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 8595, "context": "0110101000", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 4809, "context": "100110001", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 9681, "context": "1001011101", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 159, "context": "01010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "1"}
+{"idx": 3561, "context": "001100001", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 5493, "context": "110100011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 11115, "context": "1101001100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 5871, "context": "111100010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 2541, "context": "10110111", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 8193, "context": "0101100101", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 6459, "context": "0001000100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 11631, "context": "1110100010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 9627, "context": "1001010100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 11217, "context": "1101011101", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 6123, "context": "0000001100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "6"}
+{"idx": 8433, "context": "0110001101", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 10887, "context": "1100100110", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 7029, "context": "0010100011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 9453, "context": "1000110111", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 513, "context": "100101", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 4041, "context": "010110001", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 11445, "context": "1110000011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "5"}
+{"idx": 8601, "context": "0110101001", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 12087, "context": "1111101110", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "5"}
+{"idx": 5847, "context": "111011110", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 657, "context": "111101", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 7287, "context": "0011001110", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 5907, "context": "111101000", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 1503, "context": "00001010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 6015, "context": "111111010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "6"}
+{"idx": 3795, "context": "010001000", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 5247, "context": "101111010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 11679, "context": "1110101010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 12003, "context": "1111100000", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "5"}
+{"idx": 4821, "context": "100110011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 10065, "context": "1010011101", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 10929, "context": "1100101101", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 10875, "context": "1100100100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 3537, "context": "001011101", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 7419, "context": "0011100100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 1785, "context": "00111001", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 405, "context": "010011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 2535, "context": "10110110", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 1017, "context": "0111001", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 1965, "context": "01010111", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 10689, "context": "1100000101", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "5"}
+{"idx": 11367, "context": "1101110110", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 10845, "context": "1100011111", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "5"}
+{"idx": 4581, "context": "100001011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 9849, "context": "1001111001", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 195, "context": "10000", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 5229, "context": "101110111", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 4365, "context": "011100111", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 687, "context": "0000010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "5"}
+{"idx": 1347, "context": "1110000", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 11979, "context": "1111011100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 4179, "context": "011001000", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 10755, "context": "1100010000", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 477, "context": "011111", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "5"}
+{"idx": 4827, "context": "100110100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 8607, "context": "0110101010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 4863, "context": "100111010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 6681, "context": "0001101001", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 2571, "context": "10111100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 7551, "context": "0011111010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "5"}
+{"idx": 6777, "context": "0001111001", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 11793, "context": "1110111101", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 10185, "context": "1010110001", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 10809, "context": "1100011001", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 6627, "context": "0001100000", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "5"}
+{"idx": 4767, "context": "100101010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 10197, "context": "1010110011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 1389, "context": "1110111", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 4329, "context": "011100001", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 8511, "context": "0110011010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 4287, "context": "011011010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 3273, "context": "000110001", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 9525, "context": "1001000011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 8205, "context": "0101100111", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 1491, "context": "00001000", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 1113, "context": "1001001", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 7221, "context": "0011000011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 4635, "context": "100010100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 51, "context": "1000", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 8487, "context": "0110010110", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 11175, "context": "1101010110", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 7119, "context": "0010110010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 2481, "context": "10101101", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 6567, "context": "0001010110", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 6399, "context": "0000111010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 8409, "context": "0110001001", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 11601, "context": "1110011101", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 2301, "context": "10001111", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "4"}
+{"idx": 4833, "context": "100110101", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 5355, "context": "110001100", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 813, "context": "0010111", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 10389, "context": "1011010011", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "2"}
+{"idx": 1647, "context": "00100010", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 9165, "context": "1000000111", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "6"}
+{"idx": 9399, "context": "1000101110", "query": "What is the length of the longest subsequence of 0s or 1s?", "answer": "3"}
+{"idx": 4720, "context": "100100010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 3442, "context": "001001101", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 8758, "context": "0111000011", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 6280, "context": "0000100110", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 1234, "context": "1011101", "query": "Is the binary string a palindrome?", "answer": "Yes"}
+{"idx": 1522, "context": "00001101", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 9490, "context": "1000111101", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 6070, "context": "0000000011", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 9700, "context": "1001100000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 7654, "context": "0100001011", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 4114, "context": "010111101", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 6778, "context": "0001111001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 5014, "context": "101010011", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 3316, "context": "000111000", "query": "Is the binary string a palindrome?", "answer": "Yes"}
+{"idx": 364, "context": "001100", "query": "Is the binary string a palindrome?", "answer": "Yes"}
+{"idx": 4306, "context": "011011101", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 7948, "context": "0100111100", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 6286, "context": "0000100111", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 7666, "context": "0100001101", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 10876, "context": "1100100100", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 940, "context": "0101100", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 10954, "context": "1100110001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 9502, "context": "1000111111", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 4396, "context": "011101100", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 5170, "context": "101101101", "query": "Is the binary string a palindrome?", "answer": "Yes"}
+{"idx": 10642, "context": "1011111101", "query": "Is the binary string a palindrome?", "answer": "Yes"}
+{"idx": 1156, "context": "1010000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 190, "context": "01111", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 2632, "context": "11000110", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 1732, "context": "00110000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 11980, "context": "1111011100", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 8776, "context": "0111000110", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 2272, "context": "10001010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 3562, "context": "001100001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 9730, "context": "1001100101", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 3082, "context": "000010001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 11116, "context": "1101001100", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 3556, "context": "001100000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 5416, "context": "110010110", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 11644, "context": "1110100100", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 3916, "context": "010011100", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 4312, "context": "011011110", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 490, "context": "100001", "query": "Is the binary string a palindrome?", "answer": "Yes"}
+{"idx": 1396, "context": "1111000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 7564, "context": "0011111100", "query": "Is the binary string a palindrome?", "answer": "Yes"}
+{"idx": 7816, "context": "0100100110", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 8704, "context": "0110111010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 5566, "context": "110101111", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 5422, "context": "110010111", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 6448, "context": "0001000010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 3412, "context": "001001000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 11818, "context": "1111000001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 7210, "context": "0011000001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 8692, "context": "0110111000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 6454, "context": "0001000011", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 1624, "context": "00011110", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 4888, "context": "100111110", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 6736, "context": "0001110010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 7636, "context": "0100001000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 2752, "context": "11011010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 5956, "context": "111110000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 5290, "context": "110000001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 5632, "context": "110111010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 3988, "context": "010101000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 28, "context": "0100", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 7420, "context": "0011100100", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 2506, "context": "10110001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 10282, "context": "1011000001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 12136, "context": "1111110110", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 5242, "context": "101111001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 11584, "context": "1110011010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 1888, "context": "01001010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 1996, "context": "01011100", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 9460, "context": "1000111000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 10768, "context": "1100010010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 3748, "context": "010000000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 6484, "context": "0001001000", "query": "Is the binary string a palindrome?", "answer": "Yes"}
+{"idx": 6196, "context": "0000011000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 7672, "context": "0100001110", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 2098, "context": "01101101", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 8170, "context": "0101100001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 352, "context": "001010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 1774, "context": "00110111", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 7198, "context": "0010111111", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 5074, "context": "101011101", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 12016, "context": "1111100010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 3778, "context": "010000101", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 2152, "context": "01110110", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 10096, "context": "1010100010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 334, "context": "000111", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 9088, "context": "0111111010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 4624, "context": "100010010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 8158, "context": "0101011111", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 10996, "context": "1100111000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 7954, "context": "0100111101", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 9256, "context": "1000010110", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 9844, "context": "1001111000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 8254, "context": "0101101111", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 4762, "context": "100101001", "query": "Is the binary string a palindrome?", "answer": "Yes"}
+{"idx": 10180, "context": "1010110000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 6964, "context": "0010011000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 1408, "context": "1111010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 4204, "context": "011001100", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 4198, "context": "011001011", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 4786, "context": "100101101", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 7756, "context": "0100011100", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 3994, "context": "010101001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 9346, "context": "1000100101", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 11170, "context": "1101010101", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 11050, "context": "1101000001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 1720, "context": "00101110", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 3364, "context": "001000000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 10678, "context": "1100000011", "query": "Is the binary string a palindrome?", "answer": "Yes"}
+{"idx": 5134, "context": "101100111", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 11332, "context": "1101110000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 2494, "context": "10101111", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 7840, "context": "0100101010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 8794, "context": "0111001001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 3940, "context": "010100000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 1378, "context": "1110101", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 9118, "context": "0111111111", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 8026, "context": "0101001001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 10864, "context": "1100100010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 11506, "context": "1110001101", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 5584, "context": "110110010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 3220, "context": "000101000", "query": "Is the binary string a palindrome?", "answer": "Yes"}
+{"idx": 118, "context": "00011", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 4978, "context": "101001101", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 7912, "context": "0100110110", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 9196, "context": "1000001100", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 4060, "context": "010110100", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 6790, "context": "0001111011", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 5806, "context": "111010111", "query": "Is the binary string a palindrome?", "answer": "Yes"}
+{"idx": 3478, "context": "001010011", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 4138, "context": "011000001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 1654, "context": "00100011", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 2242, "context": "10000101", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 3652, "context": "001110000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 4510, "context": "011111111", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 658, "context": "111101", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 772, "context": "0010000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 5128, "context": "101100110", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 202, "context": "10001", "query": "Is the binary string a palindrome?", "answer": "Yes"}
+{"idx": 7336, "context": "0011010110", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 4024, "context": "010101110", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 10858, "context": "1100100001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 2716, "context": "11010100", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 2794, "context": "11100001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 8452, "context": "0110010000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 3040, "context": "000001010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 11632, "context": "1110100010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 9130, "context": "1000000001", "query": "Is the binary string a palindrome?", "answer": "Yes"}
+{"idx": 11656, "context": "1110100110", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 10552, "context": "1011101110", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 9988, "context": "1010010000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 4276, "context": "011011000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 1786, "context": "00111001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 5164, "context": "101101100", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 8950, "context": "0111100011", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 8464, "context": "0110010010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 22, "context": "0011", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 4816, "context": "100110010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 6400, "context": "0000111010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 5044, "context": "101011000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 3004, "context": "000000100", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 3646, "context": "001101111", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 844, "context": "0011100", "query": "Is the binary string a palindrome?", "answer": "Yes"}
+{"idx": 11536, "context": "1110010010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 5854, "context": "111011111", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 10144, "context": "1010101010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 11920, "context": "1111010010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 4894, "context": "100111111", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 1588, "context": "00011000", "query": "Is the binary string a palindrome?", "answer": "Yes"}
+{"idx": 10510, "context": "1011100111", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 5830, "context": "111011011", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 9658, "context": "1001011001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 7090, "context": "0010101101", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 10594, "context": "1011110101", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 1126, "context": "1001011", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 7114, "context": "0010110001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 3574, "context": "001100011", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 11368, "context": "1101110110", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 358, "context": "001011", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 11446, "context": "1110000011", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 12112, "context": "1111110010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 6058, "context": "0000000001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 11476, "context": "1110001000", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 3202, "context": "000100101", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 3934, "context": "010011111", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 10624, "context": "1011111010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 1858, "context": "01000101", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 730, "context": "0001001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 1558, "context": "00010011", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 4960, "context": "101001010", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 1444, "context": "00000000", "query": "Is the binary string a palindrome?", "answer": "Yes"}
+{"idx": 10522, "context": "1011101001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 8146, "context": "0101011101", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 3946, "context": "010100001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 6298, "context": "0000101001", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 7708, "context": "0100010100", "query": "Is the binary string a palindrome?", "answer": "No"}
+{"idx": 7565, "context": "0011111100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "2"}
+{"idx": 3365, "context": "001000000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "2"}
+{"idx": 7445, "context": "0011101000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 9287, "context": "1000011011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 5387, "context": "110010001", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 6329, "context": "0000101110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 9713, "context": "1001100010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 3137, "context": "000011010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 10037, "context": "1010011000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 7217, "context": "0011000010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 4601, "context": "100001110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 5621, "context": "110111000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 2999, "context": "000000011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "1"}
+{"idx": 4493, "context": "011111100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "2"}
+{"idx": 10421, "context": "1011011000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 9449, "context": "1000110110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 9353, "context": "1000100110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 7469, "context": "0011101100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 5351, "context": "110001011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 1175, "context": "1010011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 263, "context": "11011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "2"}
+{"idx": 10859, "context": "1100100001", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 6023, "context": "111111011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "2"}
+{"idx": 6485, "context": "0001001000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 3269, "context": "000110000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "2"}
+{"idx": 10217, "context": "1010110110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "7"}
+{"idx": 5987, "context": "111110101", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 6917, "context": "0010010000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 4265, "context": "011010110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 4865, "context": "100111010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 203, "context": "10001", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "2"}
+{"idx": 2525, "context": "10110100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 413, "context": "010100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 4055, "context": "010110011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 7811, "context": "0100100101", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "7"}
+{"idx": 1565, "context": "00010100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 1613, "context": "00011100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "2"}
+{"idx": 2435, "context": "10100101", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 389, "context": "010000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "2"}
+{"idx": 3449, "context": "001001110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 1493, "context": "00001000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "2"}
+{"idx": 9485, "context": "1000111100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 2801, "context": "11100010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 3869, "context": "010010100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 4529, "context": "100000010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 9785, "context": "1001101110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 10979, "context": "1100110101", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 5963, "context": "111110001", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "2"}
+{"idx": 12173, "context": "1111111100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "1"}
+{"idx": 5615, "context": "110110111", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 1325, "context": "1101100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 5777, "context": "111010010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 10535, "context": "1011101011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 9515, "context": "1001000001", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 11417, "context": "1101111110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 1541, "context": "00010000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "2"}
+{"idx": 8147, "context": "0101011101", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "7"}
+{"idx": 7451, "context": "0011101001", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 8381, "context": "0110000100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 8801, "context": "0111001010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 11753, "context": "1110110110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 11141, "context": "1101010000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 11285, "context": "1101101000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 12167, "context": "1111111011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "2"}
+{"idx": 2429, "context": "10100100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 4655, "context": "100010111", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 6245, "context": "0000100000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "2"}
+{"idx": 1361, "context": "1110010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 11567, "context": "1110010111", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 6377, "context": "0000110110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 8129, "context": "0101011010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "8"}
+{"idx": 3497, "context": "001010110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 1433, "context": "1111110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "1"}
+{"idx": 10229, "context": "1010111000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 4985, "context": "101001110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 8009, "context": "0101000110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 11933, "context": "1111010100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 2291, "context": "10001101", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 5009, "context": "101010010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "7"}
+{"idx": 767, "context": "0001111", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "1"}
+{"idx": 9377, "context": "1000101010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "7"}
+{"idx": 11525, "context": "1110010000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 9575, "context": "1001001011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 2225, "context": "10000010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 6569, "context": "0001010110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 11603, "context": "1110011101", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 7511, "context": "0011110011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 6617, "context": "0001011110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 9623, "context": "1001010011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 10511, "context": "1011100111", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 7709, "context": "0100010100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 9347, "context": "1000100101", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 6713, "context": "0001101110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 7937, "context": "0100111010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 8159, "context": "0101011111", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 5525, "context": "110101000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 10589, "context": "1011110100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 8693, "context": "0110111000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 2615, "context": "11000011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "2"}
+{"idx": 10607, "context": "1011110111", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 10889, "context": "1100100110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 6623, "context": "0001011111", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 9863, "context": "1001111011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 1481, "context": "00000110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "2"}
+{"idx": 8225, "context": "0101101010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "8"}
+{"idx": 2465, "context": "10101010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "7"}
+{"idx": 851, "context": "0011101", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 1001, "context": "0110110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 5273, "context": "101111110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 3857, "context": "010010010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 11333, "context": "1101110000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 4871, "context": "100111011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 9617, "context": "1001010010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "7"}
+{"idx": 10565, "context": "1011110000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 845, "context": "0011100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "2"}
+{"idx": 10541, "context": "1011101100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 2075, "context": "01101001", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 8201, "context": "0101100110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 2003, "context": "01011101", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 5069, "context": "101011100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 3149, "context": "000011100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "2"}
+{"idx": 9755, "context": "1001101001", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 7313, "context": "0011010010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 6041, "context": "111111110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "1"}
+{"idx": 8483, "context": "0110010101", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "7"}
+{"idx": 6683, "context": "0001101001", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 11537, "context": "1110010010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 77, "context": "1100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "1"}
+{"idx": 7493, "context": "0011110000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "2"}
+{"idx": 8111, "context": "0101010111", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "7"}
+{"idx": 6269, "context": "0000100100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 3221, "context": "000101000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 11681, "context": "1110101010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "7"}
+{"idx": 1823, "context": "00111111", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "1"}
+{"idx": 7877, "context": "0100110000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 5453, "context": "110011100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 6695, "context": "0001101011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 4745, "context": "100100110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 8033, "context": "0101001010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "8"}
+{"idx": 7859, "context": "0100101101", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "7"}
+{"idx": 4547, "context": "100000101", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 8087, "context": "0101010011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "7"}
+{"idx": 7379, "context": "0011011101", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 923, "context": "0101001", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 10853, "context": "1100100000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 7193, "context": "0010111110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 9563, "context": "1001001001", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 8999, "context": "0111101011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 5093, "context": "101100000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 9095, "context": "0111111011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 10355, "context": "1011001101", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 8867, "context": "0111010101", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "7"}
+{"idx": 9047, "context": "0111110011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 3617, "context": "001101010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 9083, "context": "0111111001", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 10901, "context": "1100101000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 7997, "context": "0101000100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 8561, "context": "0110100010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 4409, "context": "011101110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 8783, "context": "0111000111", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 3257, "context": "000101110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 7595, "context": "0100000001", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 5477, "context": "110100000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 5213, "context": "101110100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 2729, "context": "11010110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 1895, "context": "01001011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 6671, "context": "0001100111", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 12065, "context": "1111101010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 4949, "context": "101001000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 7385, "context": "0011011110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 9761, "context": "1001101010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "7"}
+{"idx": 3143, "context": "000011011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 2591, "context": "10111111", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "2"}
+{"idx": 167, "context": "01011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 3587, "context": "001100101", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 173, "context": "01100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "2"}
+{"idx": 9299, "context": "1000011101", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 6395, "context": "0000111001", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 5369, "context": "110001110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 8189, "context": "0101100100", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 7241, "context": "0011000110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 9071, "context": "0111110111", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 10997, "context": "1100111000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 1559, "context": "00010011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 7247, "context": "0011000111", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 743, "context": "0001011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 8153, "context": "0101011110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 5057, "context": "101011010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "7"}
+{"idx": 821, "context": "0011000", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "2"}
+{"idx": 1961, "context": "01010110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 2825, "context": "11100110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 10985, "context": "1100110110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 8177, "context": "0101100010", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 5735, "context": "111001011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 617, "context": "110110", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 3887, "context": "010010111", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "5"}
+{"idx": 10043, "context": "1010011001", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "6"}
+{"idx": 10295, "context": "1011000011", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "4"}
+{"idx": 1475, "context": "00000101", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "3"}
+{"idx": 6095, "context": "0000000111", "query": "Count the number of transitions from 0 to 1 and 1 to 0.", "answer": "1"}
