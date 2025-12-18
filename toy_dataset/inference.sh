@@ -7,7 +7,7 @@ metrics=("log_loss" "accuracy")
 
 for metric in ${metrics[@]}; do
     # Optimal
-    CUDA_VISIBLE_DEVICES=$device python inference.py --enc_model_id mistralai/Mistral-7B-Instruct-v0.2 --dec_model_id mistralai/Mistral-7B-Instruct-v0.02 --from_finetuned --dtype bf16 --data_path ./mc_data --distortion $metric --mode optimal --config_name config0 --force_tokenization
+    CUDA_VISIBLE_DEVICES=$device python inference.py --enc_model_id mistralai/Mistral-7B-Instruct-v0.2 --dec_model_id mistralai/Mistral-7B-Instruct-v0.2 --from_finetuned --dtype bf16 --data_path ./mc_data --distortion $metric --mode optimal --config_name config0 --force_tokenization
     CUDA_VISIBLE_DEVICES=$device python inference.py --enc_model_id mistralai/Mistral-7B-Instruct-v0.2 --dec_model_id mistralai/Mistral-7B-Instruct-v0.2 --from_finetuned --dtype bf16 --data_path ./mc_data --distortion $metric --mode optimal --config_name config0
 
     # Inference (no compression)
